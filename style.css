@@ -214,6 +214,15 @@ a{
     color: #1c1c1c;
     font-size: 18px;
 }
+#all-ahem{
+    color: #ff909a;
+    font-size: 16px;
+    margin-left: 70px;
+}
+#all-ahem i{
+    margin-left: 10px;
+}
+
 
 
 /************************************************ THIS IS CITY NAMES SECTION******************************************** */
